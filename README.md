@@ -2,6 +2,6 @@
 
 ## Support or Contact
 
-[Contact Vincent, developer and head of legal](mailto:wongtech@vincemacri.ca)
-[Contact David, developer and product manager](mailto:david.daniel.white@gmail.com)
+[Contact Vincent, developer and head of legal](mailto:wongtech@vincemacri.ca)\\
+[Contact David, developer and product manager](mailto:david.daniel.white@gmail.com)\\
 [Contact Rian, lackey](mailto:rpwaterson@gmail.com)
