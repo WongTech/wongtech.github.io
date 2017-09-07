@@ -6,4 +6,4 @@
 
 [Contact David, developer and product manager](mailto:david.daniel.white@gmail.com)
 
-[Contact Rian, lackey](mailto:rpwaterson@gmail.com)
+[Contact Rian](mailto:rpwaterson@gmail.com)
